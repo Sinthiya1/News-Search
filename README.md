@@ -11,5 +11,5 @@ Here technologies used:
 * JQuery
 * AJAX
 
-
+https://sinthiya1.github.io/News-Search/
 
